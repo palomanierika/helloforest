@@ -13,6 +13,7 @@ Visual Harmony: Efforts have been made to capture the essence of a forest, harmo
 Flexbox Layout: Explore the utilization of Flexbox for crafting a responsive and aesthetically pleasing layout.
 
 ## Preview
+<img width="961" alt="Screenshot 2023-12-05 at 1 21 57 p m" src="https://github.com/palomanierika/helloforest/assets/152633592/63ba2b03-99d8-4745-84e8-3d0aeba5383d">
 
 
 ## Important Notes
